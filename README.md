@@ -1,2 +1,2 @@
 # dconvformer
-This is the demo of "Input-Adaptive Dynamic Convolution-Augmented Transformer for Energy Demand Forecasting".
+This is a demo of the source code for "Input-Adaptive Dynamic Convolution-Augmented Transformer for Energy Demand Forecasting".
